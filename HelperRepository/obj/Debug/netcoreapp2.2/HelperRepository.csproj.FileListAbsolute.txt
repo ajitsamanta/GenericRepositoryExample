@@ -1,0 +1,12 @@
+C:\Users\hp\source\repos\CRUDWithGenericRepository\HelperRepository\bin\Debug\netcoreapp2.2\HelperRepository.deps.json
+C:\Users\hp\source\repos\CRUDWithGenericRepository\HelperRepository\bin\Debug\netcoreapp2.2\HelperRepository.dll
+C:\Users\hp\source\repos\CRUDWithGenericRepository\HelperRepository\bin\Debug\netcoreapp2.2\HelperRepository.pdb
+C:\Users\hp\source\repos\CRUDWithGenericRepository\HelperRepository\bin\Debug\netcoreapp2.2\HelperModel.dll
+C:\Users\hp\source\repos\CRUDWithGenericRepository\HelperRepository\bin\Debug\netcoreapp2.2\HelperModel.pdb
+C:\Users\hp\source\repos\CRUDWithGenericRepository\HelperRepository\obj\Debug\netcoreapp2.2\HelperRepository.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\CRUDWithGenericRepository\HelperRepository\obj\Debug\netcoreapp2.2\HelperRepository.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\CRUDWithGenericRepository\HelperRepository\obj\Debug\netcoreapp2.2\HelperRepository.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\CRUDWithGenericRepository\HelperRepository\obj\Debug\netcoreapp2.2\HelperRepository.AssemblyInfo.cs
+C:\Users\hp\source\repos\CRUDWithGenericRepository\HelperRepository\obj\Debug\netcoreapp2.2\HelperRepository.csproj.CopyComplete
+C:\Users\hp\source\repos\CRUDWithGenericRepository\HelperRepository\obj\Debug\netcoreapp2.2\HelperRepository.dll
+C:\Users\hp\source\repos\CRUDWithGenericRepository\HelperRepository\obj\Debug\netcoreapp2.2\HelperRepository.pdb

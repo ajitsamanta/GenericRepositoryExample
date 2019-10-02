@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\hp\\source\\repos\\CRUDWithGenericRepository\\HelperRepository\\HelperRepository.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\hp\\source\\repos\\CRUDWithGenericRepository\\HelperModel\\HelperModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\CRUDWithGenericRepository\\HelperModel\\HelperModel.csproj",
+        "projectName": "HelperModel",
+        "projectPath": "C:\\Users\\hp\\source\\repos\\CRUDWithGenericRepository\\HelperModel\\HelperModel.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hp\\source\\repos\\CRUDWithGenericRepository\\HelperModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\hp\\source\\repos\\CRUDWithGenericRepository\\HelperRepository\\HelperRepository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\CRUDWithGenericRepository\\HelperRepository\\HelperRepository.csproj",
+        "projectName": "HelperRepository",
+        "projectPath": "C:\\Users\\hp\\source\\repos\\CRUDWithGenericRepository\\HelperRepository\\HelperRepository.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hp\\source\\repos\\CRUDWithGenericRepository\\HelperRepository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\hp\\source\\repos\\CRUDWithGenericRepository\\HelperModel\\HelperModel.csproj": {
+                "projectPath": "C:\\Users\\hp\\source\\repos\\CRUDWithGenericRepository\\HelperModel\\HelperModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.9.2, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

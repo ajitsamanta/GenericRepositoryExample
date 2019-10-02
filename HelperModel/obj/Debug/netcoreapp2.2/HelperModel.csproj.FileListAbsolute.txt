@@ -1,0 +1,8 @@
+C:\Users\hp\source\repos\CRUDWithGenericRepository\HelperModel\bin\Debug\netcoreapp2.2\HelperModel.deps.json
+C:\Users\hp\source\repos\CRUDWithGenericRepository\HelperModel\bin\Debug\netcoreapp2.2\HelperModel.dll
+C:\Users\hp\source\repos\CRUDWithGenericRepository\HelperModel\bin\Debug\netcoreapp2.2\HelperModel.pdb
+C:\Users\hp\source\repos\CRUDWithGenericRepository\HelperModel\obj\Debug\netcoreapp2.2\HelperModel.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\CRUDWithGenericRepository\HelperModel\obj\Debug\netcoreapp2.2\HelperModel.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\CRUDWithGenericRepository\HelperModel\obj\Debug\netcoreapp2.2\HelperModel.AssemblyInfo.cs
+C:\Users\hp\source\repos\CRUDWithGenericRepository\HelperModel\obj\Debug\netcoreapp2.2\HelperModel.dll
+C:\Users\hp\source\repos\CRUDWithGenericRepository\HelperModel\obj\Debug\netcoreapp2.2\HelperModel.pdb
